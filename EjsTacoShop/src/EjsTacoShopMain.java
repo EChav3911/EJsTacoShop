@@ -20,7 +20,7 @@ public class EjsTacoShopMain {
 		menuItems.println("\tb) Chicken:  1.75");
 		menuItems.println("\tc) Fish:     2.25\n");
 		menuItems.println("2.Buritos");
-		menuItems.println("\ta) Steak:    9.50");
+		menuItems.println("\ta) Steak:    10.00");
 		menuItems.println("\tb) Chicken:  8.00\n");
 		menuItems.println("3.Tortas");
 		menuItems.println("\ta) Steak:    6.50");
