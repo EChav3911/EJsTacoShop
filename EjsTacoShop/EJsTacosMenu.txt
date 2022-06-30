@@ -1,0 +1,27 @@
+Hello, here are todays menu Items
+
+1.Tacos
+	a) Steak:    2.00
+	b) Chicken:  1.75
+	c) Fish:     2.25
+
+2.Buritos
+	a) Steak:    10.00
+	b) Chicken:  8.00
+
+3.Tortas
+	a) Steak:    6.50
+	b) Milanesa: 7.25
+
+4.Flautas:
+	a) Beef:     1.25
+	b) Chicken:  1.00
+
+5.Quesadilla:  1.00
+	a) Steak:   +1.00
+	b) Chicken: +0.75
+	c) Shrimp:  +1.50
+
+6.Soda:        1.25
+
+7.Churros (2): 2.00
